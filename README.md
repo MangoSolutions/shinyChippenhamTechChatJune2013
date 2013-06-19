@@ -1,4 +1,4 @@
-shinyChippenhamTechChatJune2013
-===============================
+Readme
+======
 
-Shiny Examples Chippenham Tech Chat June 2013 
+These are the Shiny Examples from Chippenham Tech Chat.
